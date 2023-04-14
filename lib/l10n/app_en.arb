@@ -1,0 +1,6 @@
+{
+  "@@locale": "en",
+  "title" : "Localization",
+  "welcome" : "Welcome",
+  "message" : "App localization demo, change language by tapping on top dropdown button."
+}
