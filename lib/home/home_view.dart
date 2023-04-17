@@ -19,6 +19,8 @@ class HomeView extends StatelessWidget {
               Text(context.translate.welcome),
               const SizedBox(height: 20),
               Text(context.translate.message),
+              const SizedBox(height: 20),
+              Text(context.translate.paragraph),
               const SizedBox(height: 50),
               ElevatedButton(
                 onPressed: () => show(context),
