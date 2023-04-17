@@ -1,0 +1,11 @@
+{
+  "@@locale": "es",
+  "title" : "Localización",
+  "welcome" : "Bienvenido",
+  "message" : "Demostración de localización de la aplicación, cambie el idioma tocando el botón desplegable superior. Toque el botón inferior para mostrar el cuadro de diálogo.",
+  "paragraph" : "Un cuadro de diálogo de alerta (también conocido como cuadro de diálogo básico) informa al usuario sobre situaciones que requieren reconocimiento. Un diálogo de alerta tiene un título opcional y una lista opcional de acciones. El título se muestra sobre el contenido y las acciones se muestran debajo del contenido.",
+  "showDialog" : "Mostrar cuadro de diálogo",
+  "dialogTitle" : "Diálogo de alerta",
+  "dialogMessage" : "Este es un cuadro de diálogo de alerta.",
+  "close" : "Cerca"
+}
